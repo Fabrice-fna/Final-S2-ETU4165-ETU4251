@@ -1,0 +1,4 @@
+sql:
+creer database,table:
+_membre(id_membre, nom, date de naissance, genre, email, ville, mdp, image_profil)
+
